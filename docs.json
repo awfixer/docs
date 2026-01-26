@@ -1,13 +1,16 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "AWFixer Holdings Legal",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#AD1457",
+    "light": "#AD1457",
+    "dark": "#AD1457"
   },
-  "favicon": "/favicon.svg",
+  "favicon": {
+    "light": "/images/morty.jpeg",
+    "dark": "/images/morty.jpeg"
+  },
   "navigation": {
     "tabs": [
       {
@@ -83,10 +86,7 @@
       ]
     }
   },
-  "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
-  },
+  "logo": "/images/morty.jpeg",
   "navbar": {
     "links": [
       {
@@ -118,5 +118,9 @@
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
+  },
+  "description": "Legal Notes and Notices",
+  "background": {
+    "image": "/images/mortywelcome.png"
   }
 }
