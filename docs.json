@@ -12,6 +12,19 @@
     "dark": "/images/morty.jpeg"
   },
   "navigation": {
+    "global": {
+      "anchors": [
+        {
+          "anchor": "Discord",
+          "icon": "thumbs-up",
+          "color": {
+            "light": "#AD1457",
+            "dark": "#AD1457"
+          },
+          "href": "https://discord.awfixer.com"
+        }
+      ]
+    },
     "tabs": [
       {
         "tab": "Guides",
@@ -70,21 +83,7 @@
           }
         ]
       }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
-        }
-      ]
-    }
+    ]
   },
   "logo": "/images/morty.jpeg",
   "navbar": {
