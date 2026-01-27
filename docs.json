@@ -160,6 +160,41 @@
             "href": "https://imjinx.lol"
           }
         ]
+      },
+      {
+        "header": "FutureJS",
+        "items": [
+          {
+            "label": "FutureJS Development",
+            "href": "/future-js/future-js-development/overview"
+          },
+          {
+            "label": "FutureJS Hosting",
+            "href": "/future-js/future-js-hosting/overview"
+          },
+          {
+            "label": "FutureJS Project",
+            "href": "/future-js/future-js-project/overview"
+          }
+        ]
+      },
+      {
+        "header": "AWFixerOS",
+        "items": [
+          {
+            "label": "Overview",
+            "href": "/aw-fixer-os/overview"
+          }
+        ]
+      },
+      {
+        "header": "AWFixer Net",
+        "items": [
+          {
+            "label": "Overview",
+            "href": "/aw-fixer-net/overview"
+          }
+        ]
       }
     ]
   },
