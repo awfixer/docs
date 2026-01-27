@@ -40,21 +40,25 @@
       },
       {
         "tab": "FutureJS",
+        "icon": "code",
         "dropdowns": [
           {
             "dropdown": "FutureJS Development",
+            "icon": "code-compare",
             "pages": [
               "future-js/future-js-development/overview"
             ]
           },
           {
             "dropdown": "FutureJS Hosting",
+            "icon": "cloud",
             "pages": [
               "future-js/future-js-hosting/overview"
             ]
           },
           {
             "dropdown": "FutureJS Project",
+            "icon": "code",
             "pages": [
               "future-js/future-js-project/overview"
             ]
