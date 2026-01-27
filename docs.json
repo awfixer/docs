@@ -25,19 +25,15 @@
         }
       ]
     },
-    "products": [
+    "tabs": [
       {
-        "product": "What The fuck",
-        "dropdowns": [
+        "tab": "Legal",
+        "groups": [
           {
-            "dropdown": "Main",
-            "tabs": [
-              {
-                "tab": "Guides",
-                "pages": [
-                  "what-the-fuck/main/guides/this-is-crazy"
-                ]
-              }
+            "group": "Terms",
+            "pages": [
+              "legal/terms/use",
+              "legal/terms/service"
             ]
           }
         ]
