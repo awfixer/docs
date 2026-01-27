@@ -66,7 +66,22 @@
       "x": "https://x.com/awandfriends",
       "github": "https://github.com/awfixer-org",
       "discord": "https://discord.awfixer.com"
-    }
+    },
+    "links": [
+      {
+        "header": "Founders",
+        "items": [
+          {
+            "label": "AWFixer",
+            "href": "https://awfixer.me"
+          },
+          {
+            "label": "jinx",
+            "href": "https://imjinx.lol"
+          }
+        ]
+      }
+    ]
   },
   "description": "Legal Notes and Notices",
   "background": {
