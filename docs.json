@@ -28,6 +28,7 @@
     "tabs": [
       {
         "tab": "Legal",
+        "icon": "scale-balanced",
         "groups": [
           {
             "group": "Terms",
@@ -67,6 +68,7 @@
       },
       {
         "tab": "AWFixerOS",
+        "icon": "skull-crossbones",
         "dropdowns": [
           {
             "dropdown": "AWOS ADK",
