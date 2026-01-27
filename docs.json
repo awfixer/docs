@@ -37,6 +37,20 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "FutureJS",
+        "dropdowns": [
+          {
+            "dropdown": "FutureJS Project",
+            "pages": [
+              "future-js/future-js-project/overview"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "AWFixerOS"
       }
     ]
   },
