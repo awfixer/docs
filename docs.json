@@ -27,14 +27,13 @@
     },
     "tabs": [
       {
-        "tab": "Legal",
-        "icon": "scale-balanced",
+        "tab": "About",
+        "icon": "alien",
         "groups": [
           {
-            "group": "Terms",
+            "group": "Get Started",
             "pages": [
-              "legal/terms/use",
-              "legal/terms/service"
+              "about/get-started/overview"
             ]
           }
         ]
@@ -120,6 +119,19 @@
                   "aw-fixer-net/overview/aw-fixer-network/overview"
                 ]
               }
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Legal",
+        "icon": "scale-balanced",
+        "groups": [
+          {
+            "group": "Terms",
+            "pages": [
+              "legal/terms/use",
+              "legal/terms/service"
             ]
           }
         ]
