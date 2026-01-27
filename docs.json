@@ -42,6 +42,18 @@
         "tab": "FutureJS",
         "dropdowns": [
           {
+            "dropdown": "FutureJS Development",
+            "pages": [
+              "future-js/future-js-development/overview"
+            ]
+          },
+          {
+            "dropdown": "FutureJS Hosting",
+            "pages": [
+              "future-js/future-js-hosting/overview"
+            ]
+          },
+          {
             "dropdown": "FutureJS Project",
             "pages": [
               "future-js/future-js-project/overview"
@@ -50,7 +62,61 @@
         ]
       },
       {
-        "tab": "AWFixerOS"
+        "tab": "AWFixerOS",
+        "dropdowns": [
+          {
+            "dropdown": "AWOS ADK",
+            "pages": [
+              "aw-fixer-os/awos-adk/overview"
+            ]
+          },
+          {
+            "dropdown": "AWDE",
+            "pages": [
+              "aw-fixer-os/awde/overview"
+            ]
+          },
+          {
+            "dropdown": "AWFixerOS Sync",
+            "pages": [
+              "aw-fixer-os/aw-fixer-os-sync/overvie"
+            ]
+          },
+          {
+            "dropdown": "AWFixerOS Project",
+            "pages": [
+              "aw-fixer-os/aw-fixer-os-project/overview"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "AWFixerNet",
+        "dropdowns": [
+          {
+            "dropdown": "Overview",
+            "groups": [
+              {
+                "group": "AWFixer VPN",
+                "pages": [
+                  "aw-fixer-net/overview/aw-fixer-vpn/overview"
+                ]
+              },
+              {
+                "group": "AWFixer CMS",
+                "pages": [
+                  "aw-fixer-net/overview/aw-fixer-cms/overview"
+                ]
+              },
+              {
+                "group": "AWFixer Network",
+                "pages": [
+                  "aw-fixer-net/overview/aw-fixer-network/overview"
+                ]
+              }
+            ]
+          }
+        ]
       }
     ]
   },
