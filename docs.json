@@ -180,8 +180,8 @@
         "tab": "Legal",
         "icon": "scale-balanced",
         "pages": [
-          "legal/subprocessors",
           "legal/overview",
+          "legal/subprocessors",
           {
             "group": "Agreements",
             "icon": "scale-balanced",
@@ -211,7 +211,9 @@
             "group": "subprocessor-agreements",
             "icon": "map",
             "hidden": true,
-            "pages": []
+            "pages": [
+              "legal/subprocessor-agreements/stripe"
+            ]
           }
         ]
       },
