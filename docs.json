@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "almond",
-  "name": "AWFixer Holdings Legal",
+  "name": "AWFixer Holdings Help Center",
   "colors": {
     "primary": "#AD1457",
     "light": "#AD1457",
@@ -238,7 +238,7 @@
       }
     ]
   },
-  "description": "Legal Notes and Notices",
+  "description": "Help Center and Knowledge Base",
   "background": {
     "decoration": "grid"
   },
