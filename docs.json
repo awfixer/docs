@@ -107,6 +107,7 @@
           },
           {
             "dropdown": "AWFixer Cloud",
+            "icon": "cloud",
             "groups": [
               {
                 "group": "Goals",
@@ -117,13 +118,30 @@
             ]
           },
           {
-            "dropdown": "AWFixer Network"
+            "dropdown": "AWFixer Network",
+            "icon": "globe",
+            "color": {
+              "light": "#AD1457",
+              "dark": "#AD1457"
+            }
           },
           {
-            "dropdown": "AWFixer CMS"
+            "dropdown": "SompleCMS",
+            "icon": "book",
+            "color": {
+              "light": "#AD1457",
+              "dark": "#AD1457"
+            },
+            "description": "Your CMS is to complicated"
           },
           {
-            "dropdown": "AWFixer VPN"
+            "dropdown": "AWFixer VPN",
+            "icon": "network-wired",
+            "color": {
+              "light": "#AD1457",
+              "dark": "#AD1457"
+            },
+            "description": ""
           }
         ]
       },
