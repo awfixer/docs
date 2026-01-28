@@ -209,6 +209,23 @@
             "pages": []
           }
         ]
+      },
+      {
+        "tab": "Announcements",
+        "dropdowns": [
+          {
+            "dropdown": "Changelog"
+          },
+          {
+            "dropdown": "Releases"
+          },
+          {
+            "dropdown": "Friends",
+            "pages": [
+              "announcements/friends/one"
+            ]
+          }
+        ]
       }
     ]
   },
@@ -311,7 +328,7 @@
   },
   "banner": {
     "dismissible": true,
-    "content": "Join our Discord!"
+    "content": "[Our Board of Friends has released a new Announcement](/announcements/friends/one))"
   },
   "interaction": {
     "drilldown": true
