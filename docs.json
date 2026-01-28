@@ -58,6 +58,7 @@
             "pages": [
               {
                 "group": "Products",
+                "expanded": true,
                 "pages": [
                   "about/aw-fixer-and-friends/products/awfixernet",
                   "about/aw-fixer-and-friends/products/aw-fixer-os"
@@ -70,9 +71,10 @@
             "group": "AWFixer Holding",
             "icon": "building",
             "pages": [
-              "about/aw-fixer-holding/overview"
+              "about/aw-fixer-holding/leadership"
             ]
-          }
+          },
+          "about/aw-fixer-holding/overview"
         ]
       },
       {
