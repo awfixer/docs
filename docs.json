@@ -29,7 +29,8 @@
       {
         "tab": "About",
         "icon": "alien",
-        "groups": [
+        "pages": [
+          "about/manifesto",
           {
             "group": "Get Started",
             "pages": [
