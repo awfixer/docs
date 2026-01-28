@@ -222,6 +222,26 @@
         "icon": "megaphone",
         "dropdowns": [
           {
+            "dropdown": "Friends",
+            "pages": [
+              "announcements/friends/one"
+            ]
+          },
+          {
+            "dropdown": "Founders",
+            "tabs": [
+              {
+                "tab": "AWFixer",
+                "pages": [
+                  "announcements/founders/aw-fixer/welcome"
+                ]
+              },
+              {
+                "tab": "Jinx"
+              }
+            ]
+          },
+          {
             "dropdown": "Product Releases",
             "icon": "alien-8bit",
             "color": {
@@ -272,23 +292,6 @@
                   }
                 ]
               }
-            ]
-          },
-          {
-            "dropdown": "Founders",
-            "tabs": [
-              {
-                "tab": "AWFixer"
-              },
-              {
-                "tab": "Jinx"
-              }
-            ]
-          },
-          {
-            "dropdown": "Friends",
-            "pages": [
-              "announcements/friends/one"
             ]
           },
           {
