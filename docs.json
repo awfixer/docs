@@ -56,6 +56,13 @@
             "group": "AWFixer and Friends",
             "icon": "handshake",
             "pages": [
+              {
+                "group": "Products",
+                "pages": [
+                  "about/aw-fixer-and-friends/products/awfixernet",
+                  "about/aw-fixer-and-friends/products/aw-fixer-os"
+                ]
+              },
               "about/aw-fixer-and-friends/overview"
             ]
           },
