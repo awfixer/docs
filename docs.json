@@ -403,7 +403,7 @@
   },
   "banner": {
     "dismissible": true,
-    "content": "[Our Board of Friends has released a new Announcement](/announcements/friends/one))"
+    "content": "[Our Board of Friends has released a new Announcement](/announcements/friends/one)"
   },
   "interaction": {
     "drilldown": true
