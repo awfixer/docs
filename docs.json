@@ -16,7 +16,7 @@
       "anchors": [
         {
           "anchor": "Discord",
-          "icon": "thumbs-up",
+          "icon": "discord",
           "color": {
             "light": "#AD1457",
             "dark": "#AD1457"
@@ -101,6 +101,12 @@
         "dropdowns": [
           {
             "dropdown": "Overview",
+            "icon": "gavel",
+            "color": {
+              "light": "#AD1457",
+              "dark": "#AD1457"
+            },
+            "description": "an overview of AWFixerNet",
             "pages": [
               "aw-fixer-net/overview/why-we-say-no"
             ]
