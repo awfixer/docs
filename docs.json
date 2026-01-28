@@ -30,7 +30,7 @@
         "tab": "About",
         "icon": "alien",
         "pages": [
-          "about/manifesto",
+          "about/index",
           {
             "group": "Get Started",
             "pages": [
