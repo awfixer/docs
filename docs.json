@@ -34,29 +34,34 @@
           {
             "group": "Get Started",
             "pages": [
-              "about/get-started/overview"
+              "about/get-started/overview",
+              "about/get-started/aw-fixer-accounts"
             ]
           },
           {
             "group": "AJ's Services",
+            "icon": "money-bill-1-wave",
             "pages": [
               "about/ajs-services/overview"
             ]
           },
           {
             "group": "AWFixer's Lounge",
+            "icon": "people-line",
             "pages": [
               "about/aw-fixers-lounge/overview"
             ]
           },
           {
             "group": "AWFixer and Friends",
+            "icon": "handshake",
             "pages": [
               "about/aw-fixer-and-friends/overview"
             ]
           },
           {
             "group": "AWFixer Holding",
+            "icon": "building",
             "pages": [
               "about/aw-fixer-holding/overview"
             ]
@@ -69,7 +74,7 @@
         "dropdowns": [
           {
             "dropdown": "FutureJS Project",
-            "icon": "code",
+            "icon": "code-compare",
             "pages": [
               "future-js/future-js-project/overview"
             ]
