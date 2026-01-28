@@ -214,10 +214,47 @@
         "tab": "Announcements",
         "dropdowns": [
           {
-            "dropdown": "Product Releases"
+            "dropdown": "Product Releases",
+            "icon": "alien-8bit",
+            "color": {
+              "light": "#AD1457",
+              "dark": "#AD1457"
+            },
+            "groups": [
+              {
+                "group": "AWFixerNet",
+                "icon": "globe",
+                "pages": [
+                  {
+                    "group": "AWFixer Network",
+                    "pages": []
+                  },
+                  {
+                    "group": "AWFixer Cloud",
+                    "pages": []
+                  },
+                  {
+                    "group": "SimpleCMS",
+                    "pages": []
+                  },
+                  {
+                    "group": "AWFixerVPN",
+                    "pages": []
+                  }
+                ]
+              }
+            ]
           },
           {
-            "dropdown": "Founders"
+            "dropdown": "Founders",
+            "tabs": [
+              {
+                "tab": "AWFixer"
+              },
+              {
+                "tab": "Jinx"
+              }
+            ]
           },
           {
             "dropdown": "Friends",
