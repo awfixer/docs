@@ -132,6 +132,7 @@
             },
             "description": "an overview of AWFixerNet",
             "pages": [
+              "aw-fixer-net/overview/index",
               "aw-fixer-net/overview/why-we-say-no"
             ]
           },
