@@ -232,12 +232,26 @@
         "items": [
           {
             "label": "Overview",
-            "href": "/aw-fixer-net/overview"
+            "href": "/awfixernet"
           }
         ]
       }
     ]
   },
+  "redirects": [
+  {
+    "source": "/futurejs",
+    "destination": "/future-js/future-js-project"
+  },
+  {
+    "source": "/awfixeros",
+    "destination": "/aw-fixer-os/aw-fixer-os-project"
+  },
+  {
+    "source": "/awfixernet",
+    "destination": "/aw-fixer-net/overview"
+  }
+],
   "description": "Help Center and Knowledge Base",
   "background": {
     "decoration": "grid"
