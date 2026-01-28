@@ -214,16 +214,22 @@
         "tab": "Announcements",
         "dropdowns": [
           {
-            "dropdown": "Changelog"
+            "dropdown": "Product Releases"
           },
           {
-            "dropdown": "Releases"
+            "dropdown": "Founders"
           },
           {
             "dropdown": "Friends",
             "pages": [
               "announcements/friends/one"
             ]
+          },
+          {
+            "dropdown": "Changelog"
+          },
+          {
+            "dropdown": "Releases"
           }
         ]
       }
