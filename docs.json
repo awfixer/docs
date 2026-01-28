@@ -223,6 +223,7 @@
         "dropdowns": [
           {
             "dropdown": "Friends",
+            "icon": "person",
             "pages": [
               "announcements/friends/one"
             ]
