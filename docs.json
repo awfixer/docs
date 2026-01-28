@@ -35,6 +35,30 @@
             "pages": [
               "about/get-started/overview"
             ]
+          },
+          {
+            "group": "AJ's Services",
+            "pages": [
+              "about/ajs-services/overview"
+            ]
+          },
+          {
+            "group": "AWFixer's Lounge",
+            "pages": [
+              "about/aw-fixers-lounge/overview"
+            ]
+          },
+          {
+            "group": "AWFixer and Friends",
+            "pages": [
+              "about/aw-fixer-and-friends/overview"
+            ]
+          },
+          {
+            "group": "AWFixer Holding",
+            "pages": [
+              "about/aw-fixer-holding/overview"
+            ]
           }
         ]
       },
