@@ -154,13 +154,35 @@
       {
         "tab": "Legal",
         "icon": "scale-balanced",
-        "groups": [
+        "pages": [
+          "legal/subprocessors",
+          "legal/overview",
+          {
+            "group": "Agreements",
+            "pages": [
+              "legal/agreements/service-level",
+              "legal/agreements/service-provider"
+            ]
+          },
           {
             "group": "Terms",
             "pages": [
               "legal/terms/use",
               "legal/terms/service"
             ]
+          },
+          {
+            "group": "Policies",
+            "pages": [
+              "legal/policies/data-sharing",
+              "legal/policies/data-retention",
+              "legal/policies/untitled-page"
+            ]
+          },
+          {
+            "group": "subprocessor-agreements",
+            "hidden": true,
+            "pages": []
           }
         ]
       }
