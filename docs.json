@@ -67,6 +67,13 @@
         "icon": "code",
         "dropdowns": [
           {
+            "dropdown": "FutureJS Project",
+            "icon": "code",
+            "pages": [
+              "future-js/future-js-project/overview"
+            ]
+          },
+          {
             "dropdown": "FutureJS Development",
             "icon": "code-compare",
             "pages": [
@@ -79,13 +86,6 @@
             "pages": [
               "future-js/future-js-hosting/overview"
             ]
-          },
-          {
-            "dropdown": "FutureJS Project",
-            "icon": "code",
-            "pages": [
-              "future-js/future-js-project/overview"
-            ]
           }
         ]
       },
@@ -93,6 +93,12 @@
         "tab": "AWFixerOS",
         "icon": "skull-crossbones",
         "dropdowns": [
+          {
+            "dropdown": "AWFixerOS Project",
+            "pages": [
+              "aw-fixer-os/aw-fixer-os-project/overview"
+            ]
+          },
           {
             "dropdown": "AWOS ADK",
             "pages": [
@@ -109,12 +115,6 @@
             "dropdown": "AWFixerOS Sync",
             "pages": [
               "aw-fixer-os/aw-fixer-os-sync/overvie"
-            ]
-          },
-          {
-            "dropdown": "AWFixerOS Project",
-            "pages": [
-              "aw-fixer-os/aw-fixer-os-project/overview"
             ]
           }
         ]
@@ -139,7 +139,8 @@
           {
             "dropdown": "AWFixer Cloud",
             "icon": "cloud",
-            "groups": [
+            "pages": [
+              "aw-fixer-net/aw-fixer-cloud/overview",
               {
                 "group": "Goals",
                 "pages": [
@@ -154,16 +155,22 @@
             "color": {
               "light": "#AD1457",
               "dark": "#AD1457"
-            }
+            },
+            "pages": [
+              "aw-fixer-net/aw-fixer-network/overview"
+            ]
           },
           {
-            "dropdown": "SompleCMS",
+            "dropdown": "SimpleCMS",
             "icon": "book",
             "color": {
               "light": "#AD1457",
               "dark": "#AD1457"
             },
-            "description": "Your CMS is to complicated"
+            "description": "Your CMS is too complicated",
+            "pages": [
+              "aw-fixer-net/simple-cms/overview"
+            ]
           },
           {
             "dropdown": "AWFixer VPN",
@@ -172,7 +179,10 @@
               "light": "#AD1457",
               "dark": "#AD1457"
             },
-            "description": ""
+            "description": "",
+            "pages": [
+              "aw-fixer-net/aw-fixer-vpn/overview"
+            ]
           }
         ]
       },
