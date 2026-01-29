@@ -49,13 +49,15 @@
             "group": "AWFixer's Lounge",
             "icon": "people-line",
             "pages": [
-              "about/aw-fixers-lounge/overview"
+              "about/aw-fixers-lounge/overview",
+              "about/aw-fixers-lounge/future-js"
             ]
           },
           {
             "group": "AWFixer and Friends",
             "icon": "handshake",
             "pages": [
+              "about/aw-fixer-and-friends/overview",
               {
                 "group": "Products",
                 "expanded": true,
@@ -63,8 +65,7 @@
                   "about/aw-fixer-and-friends/products/awfixernet",
                   "about/aw-fixer-and-friends/products/aw-fixer-os"
                 ]
-              },
-              "about/aw-fixer-and-friends/overview"
+              }
             ]
           },
           {
@@ -93,7 +94,8 @@
             "dropdown": "FutureJS Development",
             "icon": "code-compare",
             "pages": [
-              "future-js/future-js-development/overview"
+              "future-js/future-js-development/overview",
+              "future-js/future-js-development/contributing"
             ]
           },
           {
@@ -322,7 +324,10 @@
             ]
           },
           {
-            "dropdown": "Changelog"
+            "dropdown": "Changelog",
+            "pages": [
+              "announcements/changelog/overview"
+            ]
           },
           {
             "dropdown": "Releases"
