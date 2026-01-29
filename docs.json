@@ -333,6 +333,43 @@
             "dropdown": "Releases"
           }
         ]
+      },
+      {
+        "tab": "Articles",
+        "dropdowns": [
+          {
+            "dropdown": "Wiki",
+            "tabs": [
+              {
+                "tab": "AWFixerOS",
+                "groups": [
+                  {
+                    "group": "AWDE",
+                    "pages": [
+                      {
+                        "group": "Configuration",
+                        "pages": [
+                          "articles/wiki/aw-fixer-os/awde/configuration/overview"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "dropdown": "Informational",
+            "tabs": [
+              {
+                "tab": "History",
+                "pages": [
+                  "articles/informational/history/index"
+                ]
+              }
+            ]
+          }
+        ]
       }
     ]
   },
