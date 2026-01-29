@@ -250,6 +250,9 @@
         "icon": "megaphone",
         "dropdowns": [
           {
+            "dropdown": "Partners"
+          },
+          {
             "dropdown": "Friends",
             "icon": "person",
             "pages": [
@@ -338,8 +341,19 @@
         "tab": "Articles",
         "dropdowns": [
           {
+            "dropdown": "Legal",
+            "tabs": [
+              {
+                "tab": "Compliance"
+              }
+            ]
+          },
+          {
             "dropdown": "Wiki",
             "tabs": [
+              {
+                "tab": "AWFixer Holding Goals"
+              },
               {
                 "tab": "AWFixerOS",
                 "groups": [
