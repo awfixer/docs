@@ -404,6 +404,10 @@
         "label": "Discord",
         "href": "https://discord.awfixer.com",
         "icon": "discord"
+      },
+      {
+        "label": "Blog",
+        "href": "https://blog.awfixer.com"
       }
     ]
   },
