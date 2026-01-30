@@ -439,15 +439,19 @@
     },
     "links": [
       {
-        "header": "Founders",
+        "header": "Company",
         "items": [
           {
-            "label": "AWFixer",
+            "label": "AWFixer - Founder",
             "href": "https://awfixer.me"
           },
           {
-            "label": "jinx",
+            "label": "jinx - Founder",
             "href": "https://imjinx.lol"
+          },
+          {
+            "label": "Careers",
+            "href": "/careers"
           }
         ]
       },
@@ -473,7 +477,7 @@
         "items": [
           {
             "label": "Overview",
-            "href": "/aw-fixer-os/overview"
+            "href": "/awos"
           }
         ]
       },
@@ -490,11 +494,19 @@
   },
   "redirects": [
   {
+    "source": "/discord",
+    "destination": "https://discord.awfixer.com"
+  },
+  {
+    "source": "/blog",
+    "destination": "https://blog.awfixer.com"
+  },
+  {
     "source": "/futurejs",
     "destination": "/future-js/future-js-project"
   },
   {
-    "source": "/awfixeros",
+    "source": "/awos",
     "destination": "/aw-fixer-os/aw-fixer-os-project"
   },
   {
