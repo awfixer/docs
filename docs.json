@@ -394,6 +394,13 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Careers",
+        "icon": "hard-drive",
+        "pages": [
+          "careers/index"
+        ]
       }
     ]
   },
