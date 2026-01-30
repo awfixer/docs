@@ -85,7 +85,8 @@
               "about/aw-fixer-holding/leadership",
               "about/aw-fixer-holding/overview"
             ]
-          }
+          },
+          "about/contact"
         ]
       },
       {
@@ -529,6 +530,10 @@
     ]
   },
   "redirects": [
+  {
+    "source": "/contact-us",
+    "destination": "/about/contact"
+  },
   {
     "source": "/discord",
     "destination": "https://discord.awfixer.com"
