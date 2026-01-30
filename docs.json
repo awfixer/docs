@@ -499,9 +499,18 @@
   },
   "styling": {
     "latex": true,
-    "codeblocks": "dark"
+    "codeblocks": "dark",
+    "eyebrows": "breadcrumbs"
   },
   "icons": {
     "library": "fontawesome"
+  },
+  "thumbnails": {
+    "appearance": "dark",
+    "background": "/images/700.jpg"
+  },
+  "fonts": {
+    "family": "Geist",
+    "weight": 200
   }
 }
