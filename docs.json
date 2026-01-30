@@ -407,7 +407,8 @@
       },
       {
         "label": "Blog",
-        "href": "https://blog.awfixer.com"
+        "href": "https://blog.awfixer.com",
+        "icon": "book"
       }
     ]
   },
