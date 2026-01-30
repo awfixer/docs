@@ -22,6 +22,15 @@
             "dark": "#AD1457"
           },
           "href": "https://discord.awfixer.com"
+        },
+        {
+          "anchor": "Blog",
+          "icon": "book",
+          "color": {
+            "light": "#AD1457",
+            "dark": "#AD1457"
+          },
+          "href": "https://blog.awfixer.com"
         }
       ]
     },
@@ -339,6 +348,7 @@
       },
       {
         "tab": "Articles",
+        "icon": "scroll",
         "dropdowns": [
           {
             "dropdown": "Legal",
