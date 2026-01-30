@@ -452,6 +452,14 @@
           {
             "label": "Careers",
             "href": "/careers"
+          },
+          {
+            "label": "Discord",
+            "href": "/discord"
+          },
+          {
+            "label": "Blog",
+            "href": "/blog"
           }
         ]
       },
