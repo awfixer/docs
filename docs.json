@@ -363,6 +363,12 @@
             "dropdown": "Wiki",
             "tabs": [
               {
+                "tab": "Pages",
+                "pages": [
+                  "articles/wiki/pages/index"
+                ]
+              },
+              {
                 "tab": "AWFixer Holding Goals"
               },
               {
