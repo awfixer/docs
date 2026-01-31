@@ -407,12 +407,13 @@
   },
   "logo": "/images/mortyround.png",
   "navbar": {
-    "links": [
-      {
+    "primary": {
+        "type": "button",
         "label": "Discord",
         "href": "https://discord.awfixer.com",
         "icon": "discord"
       },
+    "links": [
       {
         "label": "Blog",
         "href": "https://blog.awfixer.com",
@@ -420,7 +421,8 @@
       },
       {
         "label": "Roadmap",
-        "href": "https://app.fizzy.do/6149847/public/boards/zGUDKaR1Vd28fCotteYd4V7q"
+        "href": "/roadmap",
+        "icon": "map"
       }
     ]
   },
@@ -538,6 +540,10 @@
     ]
   },
   "redirects": [
+  {
+    "source": "/roadmap",
+    "destination": "https://app.fizzy.do/6149847/public/boards/zGUDKaR1Vd28fCotteYd4V7q"
+  },
   {
     "source": "/contact-us",
     "destination": "/about/contact"
