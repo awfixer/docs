@@ -43,6 +43,7 @@
           {
             "group": "Get Started",
             "pages": [
+              "about/get-started/product-support-overview",
               "about/get-started/overview",
               "about/get-started/aw-fixer-accounts"
             ]
