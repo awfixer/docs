@@ -299,10 +299,12 @@
             ]
           },
           {
-            "dropdown": "Changelog"
+            "dropdown": "Changelog",
+            "pages": []
           },
           {
-            "dropdown": "Releases"
+            "dropdown": "Releases",
+            "pages": []
           }
         ]
       }
