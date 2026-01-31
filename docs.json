@@ -158,13 +158,14 @@
             "pages": []
           },
           {
-            "dropdown": "SompleCMS",
+            "dropdown": "SimpleCMS",
             "icon": "book",
             "color": {
               "light": "#AD1457",
               "dark": "#AD1457"
             },
-            "description": "Your CMS is to complicated"
+            "description": "Your CMS is too complicated",
+            "pages": []
           },
           {
             "dropdown": "AWFixer VPN",
