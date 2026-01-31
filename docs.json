@@ -81,7 +81,14 @@
             "group": "AWFixer Holding",
             "icon": "building",
             "pages": [
-              "about/aw-fixer-holding/financials",
+              {
+                "group": "Money",
+                "pages": [
+                  "about/aw-fixer-holding/financials",
+                  "about/aw-fixer-holding/money/investment",
+                  "about/aw-fixer-holding/money/partnership"
+                ]
+              },
               "about/aw-fixer-holding/leadership",
               "about/aw-fixer-holding/overview"
             ]
