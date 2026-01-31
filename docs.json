@@ -154,7 +154,8 @@
             "color": {
               "light": "#AD1457",
               "dark": "#AD1457"
-            }
+            },
+            "pages": []
           },
           {
             "dropdown": "SompleCMS",
